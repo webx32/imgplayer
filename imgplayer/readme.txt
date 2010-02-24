@@ -1,8 +1,14 @@
-jquery 图片播放器
+jquery 图片播放器插件
 
 作者：笑的自然
 	我的博客：http://blog.csdn.net/xxd851116
 	我的邮箱: xingxiudong@gmail.com
+
+下载：
+	项目地址：http://code.google.com/p/imgplayer/
+	历史下载: http://code.google.com/p/imgplayer/downloads/list
+	jquery.fn.imgplayer.js最新下载地址：http://imgplayer.googlecode.com/svn/trunk/imgplayer/src/jquery.fn.imgplayer.js
+	jquery.fn.imgplayer.min.js最新下载地址：http://imgplayer.googlecode.com/svn/trunk/imgplayer/src/jquery.fn.imgplayer.min.js
 
 说明：
 	1. 项目编码为GBK
@@ -30,9 +36,9 @@ jquery 图片播放器
 			<a href="" target="_blank" title=""><img src="" title="" /></a>
 			......
 		</div>
-	2. 导入jquery包（http://code.jquery.com/jquery-1.4.2.min.js）
+	2. 导入jquery包(http://code.jquery.com/jquery-1.4.2.min.js)
 		<script type="text/javascript" src="jquery-1.4.2.min.js"></script>
-	3. 导入imgplayer包
+	3. 导入imgplayer插件(http://imgplayer.googlecode.com/svn/trunk/imgplayer/src/jquery.fn.imgplayer.min.js)
 		<script type="text/javascript" src="jquery.fn.imgplayer.min.js"></script>
 	4. 绑定播放函数(参数说明详见上述)
 		var player = $("#imgContainer").playImgs({
