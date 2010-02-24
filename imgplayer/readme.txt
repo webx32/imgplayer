@@ -9,6 +9,7 @@ jquery 图片播放器插件
 	历史下载: http://code.google.com/p/imgplayer/downloads/list
 	jquery.fn.imgplayer.js最新下载地址：http://imgplayer.googlecode.com/svn/trunk/imgplayer/src/jquery.fn.imgplayer.js
 	jquery.fn.imgplayer.min.js最新下载地址：http://imgplayer.googlecode.com/svn/trunk/imgplayer/src/jquery.fn.imgplayer.min.js
+	svn: http://imgplayer.googlecode.com/svn/trunk/ [read-only]
 
 说明：
 	1. 项目编码为GBK
