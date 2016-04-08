@@ -1,0 +1,1 @@
+官方网站：http://xingxiudong.freevar.com/jquery.fn.imgplayer-1.3/readme.html
